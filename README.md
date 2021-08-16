@@ -3,7 +3,7 @@
 01_Search With KeyWord
 Requirements: python 2.7,selenium,webdriver
 
-02_AutoScan With Range & Port & Theread
+02_AutoScan With Range & Port
 
 03_AutoBruteForce With IP & User & Pass List
 
