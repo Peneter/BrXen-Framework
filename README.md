@@ -1,10 +1,10 @@
 # BrXen-Framework
 
-01_Search With KeyWord
-Requirements:
-python 2.7
-selenium
-webdriver
+01_Search With KeyWord \n
+Requirements:\n
+python 2.7\n
+selenium\n
+webdriver\n
 
 02_AutoScan With Range & Port & Theread
 
